@@ -1,1 +1,2 @@
 This is our first file in the repository.
+Now we make a change.
